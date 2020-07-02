@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.16.9 clang-1200.0.22.5)"
+options: "044b82101d7a6e0640d606caba8cc530"
+build_time: [1593453087, 522610000]
+inputs:
+  "/Users/vothanhsang/Developer/SwiftUI/CustumTopBar/CustumTopBar/ContentView.swift": [1593453080, 448672388]
+  "/Users/vothanhsang/Developer/SwiftUI/CustumTopBar/CustumTopBar/CustumTopBarApp.swift": [1593453080, 442651750]
